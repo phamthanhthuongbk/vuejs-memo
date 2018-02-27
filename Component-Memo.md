@@ -34,6 +34,11 @@
     });
 ```
 
+- Javascript Event
+```
+input: input change
+```
+
 - html
 ```
 <datepicker v-bind:value="value" v-model="value"></datepicker>
@@ -80,6 +85,11 @@
             $(this.$el).off().select2('destroy')
         }
     });
+```
+
+- Javascript Event
+```
+input: input change
 ```
 
 - Html
