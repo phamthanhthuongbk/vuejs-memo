@@ -29,7 +29,7 @@
             }
         },
         destroyed: function () {
-            //$(this.$el).off().select2('destroy')
+            //$(this.$el).off().datepicker('destroy')
         }
     });
 ```
